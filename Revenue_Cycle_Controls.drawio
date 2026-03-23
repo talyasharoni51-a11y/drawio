@@ -14,10 +14,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NyJmPPSIq1L7dmUx-SHB-10" parent="NyJmPPSIq1L7dmUx-SHB-6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#007C00;" value="&lt;b&gt;Start&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="130" x="60" y="50" as="geometry" />
+          <mxGeometry height="70" width="120" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyJmPPSIq1L7dmUx-SHB-17" edge="1" parent="NyJmPPSIq1L7dmUx-SHB-6" source="NyJmPPSIq1L7dmUx-SHB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NyJmPPSIq1L7dmUx-SHB-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NyJmPPSIq1L7dmUx-SHB-11" parent="NyJmPPSIq1L7dmUx-SHB-6" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=light-dark(#f08e05, #996500);strokeWidth=2;" value="&lt;b&gt;Customer Places Order&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="130" x="230" y="50" as="geometry" />
+          <mxGeometry height="70" width="120" x="230" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NyJmPPSIq1L7dmUx-SHB-21" edge="1" parent="NyJmPPSIq1L7dmUx-SHB-6" source="NyJmPPSIq1L7dmUx-SHB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NyJmPPSIq1L7dmUx-SHB-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NyJmPPSIq1L7dmUx-SHB-14" parent="NyJmPPSIq1L7dmUx-SHB-6" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Order Details Entered into System&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="390" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NyJmPPSIq1L7dmUx-SHB-19" parent="NyJmPPSIq1L7dmUx-SHB-6" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Sales Order Generated&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="550" y="50" as="geometry" />
         </mxCell>
         <mxCell id="NyJmPPSIq1L7dmUx-SHB-7" parent="NyJmPPSIq1L7dmUx-SHB-5" style="swimlane;startSize=30;horizontal=0;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
           <mxGeometry height="240" width="1010" y="280" as="geometry" />
