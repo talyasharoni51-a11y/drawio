@@ -152,19 +152,22 @@
           <mxGeometry height="240" width="1010" y="520" as="geometry" />
         </mxCell>
         <mxCell id="nB4n_JSHC0t4NKEvAYh9-0" parent="LuJNPlu2Hjp8zrnm9-2A-35" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=light-dark(#f08e05, #996500);strokeWidth=2;" value="&lt;b&gt;Dispatch Confirmation Recieved&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="120" x="70" y="50" as="geometry" />
+          <mxGeometry height="70" width="120" x="60" y="50" as="geometry" />
         </mxCell>
         <mxCell id="5zogJ5UTmLIR48KFqKwh-8" edge="1" parent="LuJNPlu2Hjp8zrnm9-2A-35" source="5zogJ5UTmLIR48KFqKwh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5zogJ5UTmLIR48KFqKwh-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5zogJ5UTmLIR48KFqKwh-0" parent="LuJNPlu2Hjp8zrnm9-2A-35" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;b&gt;Invoice Generated&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;amp; Sent&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="120" x="230" y="50" as="geometry" />
+          <mxGeometry height="70" width="120" x="210" y="50" as="geometry" />
         </mxCell>
         <mxCell id="5zogJ5UTmLIR48KFqKwh-1" parent="LuJNPlu2Hjp8zrnm9-2A-35" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=light-dark(#f08e05, #996500);strokeWidth=2;" value="&lt;b&gt;Payment Received&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="120" x="390" y="50" as="geometry" />
+          <mxGeometry height="70" width="120" x="360" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fX2NBkhllkfNLm20UWav-1" edge="1" parent="LuJNPlu2Hjp8zrnm9-2A-35" source="5zogJ5UTmLIR48KFqKwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5zogJ5UTmLIR48KFqKwh-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5zogJ5UTmLIR48KFqKwh-2" parent="LuJNPlu2Hjp8zrnm9-2A-35" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#d0cee2;strokeColor=#56517e;" value="&lt;b&gt;Remittance Advice Recorded&lt;/b&gt;" vertex="1">
-          <mxGeometry height="70" width="120" x="590" y="50" as="geometry" />
+          <mxGeometry height="70" width="120" x="550" y="50" as="geometry" />
         </mxCell>
         <mxCell id="5zogJ5UTmLIR48KFqKwh-3" edge="1" parent="LuJNPlu2Hjp8zrnm9-2A-35" source="5zogJ5UTmLIR48KFqKwh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5zogJ5UTmLIR48KFqKwh-2">
           <mxGeometry relative="1" as="geometry" />
@@ -175,6 +178,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5zogJ5UTmLIR48KFqKwh-7" edge="1" parent="LuJNPlu2Hjp8zrnm9-2A-35" source="nB4n_JSHC0t4NKEvAYh9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5zogJ5UTmLIR48KFqKwh-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5zogJ5UTmLIR48KFqKwh-9" parent="LuJNPlu2Hjp8zrnm9-2A-35" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=light-dark(#f08e05, #996500);strokeWidth=2;" value="&lt;b&gt;Cash Posted to Accounts Receivable&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="700" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fX2NBkhllkfNLm20UWav-0" parent="LuJNPlu2Hjp8zrnm9-2A-35" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#007C00;" value="&lt;b&gt;End&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="850" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fX2NBkhllkfNLm20UWav-2" edge="1" parent="LuJNPlu2Hjp8zrnm9-2A-35" source="5zogJ5UTmLIR48KFqKwh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="fX2NBkhllkfNLm20UWav-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
