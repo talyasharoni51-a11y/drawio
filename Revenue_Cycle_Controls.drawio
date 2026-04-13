@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="2">
   <diagram name="Page-1" id="Azqj1daevdHFIpSu5Zlx">
-    <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JZQeldFeTXOX51cnHcbc-1" connectable="0" parent="NyJmPPSIq1L7dmUx-SHB-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cross-Lane Handoff&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.7313" as="geometry">
+            <mxPoint x="50" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x4BKCZivg5BhPBUUzFp_-2" edge="1" parent="1" source="x4BKCZivg5BhPBUUzFp_-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;strokeWidth=1;startSize=2;endSize=2;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="NyJmPPSIq1L7dmUx-SHB-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="200" as="targetPoint" />
@@ -136,7 +141,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-2" id="Z2ItJkOnKTUOXr5WfjQ-">
-    <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="LuJNPlu2Hjp8zrnm9-2A-0" />
         <mxCell id="LuJNPlu2Hjp8zrnm9-2A-1" parent="LuJNPlu2Hjp8zrnm9-2A-0" />
@@ -210,10 +215,15 @@
         <mxCell id="3Mjbh_PbSXzKNJRK1TuK-2" edge="1" parent="LuJNPlu2Hjp8zrnm9-2A-2" source="5tehIsBBX7HiL2v-DLl--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nB4n_JSHC0t4NKEvAYh9-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="363" />
-              <mxPoint x="380" y="540" />
-              <mxPoint x="120" y="540" />
+              <mxPoint x="460" y="362" />
+              <mxPoint x="460" y="550" />
+              <mxPoint x="120" y="550" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ntCzQExR_vsSjhzoLT1-0" connectable="0" parent="3Mjbh_PbSXzKNJRK1TuK-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Cross-Lane Handoff&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3149" as="geometry">
+            <mxPoint x="-62" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
