@@ -61,6 +61,14 @@
         <mxCell id="NyJmPPSIq1L7dmUx-SHB-89" edge="1" parent="NyJmPPSIq1L7dmUx-SHB-6" source="NyJmPPSIq1L7dmUx-SHB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="NyJmPPSIq1L7dmUx-SHB-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x4BKCZivg5BhPBUUzFp_-1" parent="NyJmPPSIq1L7dmUx-SHB-6" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#ffa175, #c35a28);strokeColor=#000000;strokeWidth=2;fontColor=#000000;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Control Activity CA-01&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;The credit check stops orders from customers who are unlikely to pay&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="430" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="x4BKCZivg5BhPBUUzFp_-2" edge="1" parent="NyJmPPSIq1L7dmUx-SHB-6" source="x4BKCZivg5BhPBUUzFp_-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;strokeWidth=1;startSize=2;endSize=2;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="NyJmPPSIq1L7dmUx-SHB-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NyJmPPSIq1L7dmUx-SHB-7" parent="NyJmPPSIq1L7dmUx-SHB-5" style="swimlane;startSize=30;horizontal=0;html=1;fillColor=#b1ddf0;strokeColor=#10739e;swimlaneFillColor=#EEF7FC;" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
           <mxGeometry height="240" width="1000" y="280" as="geometry" />
         </mxCell>
@@ -128,14 +136,6 @@
           <mxGeometry relative="1" x="0.7313" as="geometry">
             <mxPoint x="50" y="-10" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="x4BKCZivg5BhPBUUzFp_-2" edge="1" parent="1" source="x4BKCZivg5BhPBUUzFp_-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;endArrow=none;endFill=0;strokeWidth=1;startSize=2;endSize=2;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="NyJmPPSIq1L7dmUx-SHB-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x4BKCZivg5BhPBUUzFp_-1" parent="1" style="html=1;dashed=1;whiteSpace=wrap;fillColor=light-dark(#ffa175, #c35a28);strokeColor=#000000;strokeWidth=2;fontColor=#000000;" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Control Activity CA-01&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;The credit check stops orders from customers who are unlikely to pay&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="200" x="500" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
